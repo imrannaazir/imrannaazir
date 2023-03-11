@@ -1,6 +1,8 @@
+
+![I am MERN Stack Developer](https://media.licdn.com/dms/image/C4D16AQFpXNDXAOMkzQ/profile-displaybackgroundimage-shrink_350_1400/0/1654569301723?e=1683763200&v=beta&t=wcKPfc9r5pJ158nqV22Q0-aKPq-zcV1mKwm7qxKzNF8)
+
 ### Hi there 👋, Imran Naazir Emon here
 #### I am MERN Stack Developer
-![I am MERN Stack Developer](https://media.licdn.com/dms/image/C4D16AQFpXNDXAOMkzQ/profile-displaybackgroundimage-shrink_350_1400/0/1654569301723?e=1683763200&v=beta&t=wcKPfc9r5pJ158nqV22Q0-aKPq-zcV1mKwm7qxKzNF8)
 
 Web developer experienced in HTML, CSS, JS, Redux, React, and Express. Passionate about clean code and high-quality projects. Seeking new opportunities. #webdev #javascript #reactjs #redux #expressjs
 
