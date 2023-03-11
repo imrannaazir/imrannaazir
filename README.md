@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, Imran Naazir Emon here
+#### I am MERN Stack Developer
+![I am MERN Stack Developer](https://media.licdn.com/dms/image/C4D16AQFpXNDXAOMkzQ/profile-displaybackgroundimage-shrink_350_1400/0/1654569301723?e=1683763200&v=beta&t=wcKPfc9r5pJ158nqV22Q0-aKPq-zcV1mKwm7qxKzNF8)
 
-<!--
-**imrannaazir/imrannaazir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer experienced in HTML, CSS, JS, Redux, React, and Express. Passionate about clean code and high-quality projects. Seeking new opportunities. #webdev #javascript #reactjs #redux #expressjs
 
-Here are some ideas to get you started:
+Skills: REACT / EXPRESS JS / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Redux. 
+- 💬 Ask me about Javascript. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imrannaazir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/imrannaaziremon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/imrannaaziremon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/imrannaaziremon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/imrannaazirbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dev-emon.web.app/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrannaazir)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imrannaazir&show_icons=true)  
+
