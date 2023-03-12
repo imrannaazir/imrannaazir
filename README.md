@@ -38,7 +38,3 @@ Skills: REACT / EXPRESS JS / JS / HTML / CSS
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imrannaazir)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imrannaazir&show_icons=true)  
-
