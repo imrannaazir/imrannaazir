@@ -1,5 +1,5 @@
 
-![I am MERN Stack Developer](https://media.licdn.com/dms/image/C4D16AQFpXNDXAOMkzQ/profile-displaybackgroundimage-shrink_350_1400/0/1654569303095?e=1717027200&v=beta&t=qXTcy7LqQVzZvJtkl1veD3gjGvZKi4VZ707xqbPTiec)
+![I am MERN Stack Developer](https://res.cloudinary.com/dm6yrvvxj/image/upload/v1720240796/vxdb0c61jdtow65poxpe.jpg)
 
 ### Hi there 👋, Imran Naazir Emon here
 #### I am MERN Stack Developer
@@ -37,4 +37,6 @@ Skills: REACT / EXPRESS JS / JS / HTML / CSS
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 
+#### Github Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=imrannaazir&theme=react&hide_border=false&include_all_commits=true)<br/>
 
